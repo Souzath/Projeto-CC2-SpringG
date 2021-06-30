@@ -1,0 +1,5 @@
+Entidade Produto {
+		nome : String
+		preco : double
+		descricao : String
+		}
