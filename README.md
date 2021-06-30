@@ -16,7 +16,7 @@ Para testar o projeto deste repositório, primeiro vá ao SPRING Initializr(http
 
 Para gerar as classes SPRING correspondentes, vá ao terminal e digite o seguinte comando:
 
-java -jar C:\Users\thiag\eclipse-workspace\SpringG\target\SpringG-0.0.1-SNAPSHOT-jar-with-dependencies.jar C:\Users\<seu usuário>\Desktop\TESTE.txt .\<pasta baixada pelo SPRING Initializr>
+java -jar C:\Users\thiag\eclipse-workspace\SpringG\target\SpringG-0.0.1-SNAPSHOT-jar-with-dependencies.jar C:\Users\<seu usuário>\Desktop\TESTE.txt .\<pasta baixada pelo SPRING Initializr>(Para rodar o exemplo do arquivo TESTE, pode digitar .\produto\produto. Apenas verifique se todos as classes estão dentro da mesma pasta! Se precisar, pode movê-las manualmente também)
 
 O comando ira chamar o compilador, passando o arquivo de texto TESTE.txt e irá salvar as classes em uma pasta com o nome da entidade, dentro de uma pasta pacote.
 
