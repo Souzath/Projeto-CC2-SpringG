@@ -4,6 +4,7 @@
 
 O projeto foi feito em Java, utilizando o ANTLR para gerar a gramática.
 Pré-rqeuisitos: Ter o JDK e o Maven instalados no sistema, bem como suas variáveis de ambiente configuradas. Para configurar as variáveis de ambiente, foi utilizado o programa Rapid Environment Editor. Basta criar uma variável JAVA_HOME e uma MAVEN_HOME, apontando para o diretorio do seu JDK e Maven e então adicioná-las no path do seu sistema.
+O projeto foi feito no Eclipse, mas qualquer IDE é válida. Basta importar o projeto como um projeto Maven.
 
 A ideia é receber um arquivo .txt genérico aceito pela gramática e gerar, na saída, as classes java equivalentes em um formato aceito pelo SPRING.
 
